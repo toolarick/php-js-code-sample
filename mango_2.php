@@ -22,21 +22,6 @@ class Mango_2 extends Vats
         'location'          => 'location',
         //'create'            => 'create',
         'entry_id'          => 'id_group',
-        /*
-        'id_rec_1'          => true,
-        'id_rec_2'          => true,
-        'id_rec_3'          => true,
-        'date_start'        => true,
-        'date_finish'       => true,
-        'answer'            => true,
-        'from_extension'    => true,
-        'from_number'       => true,
-        'to_extension'      => true,
-        'to_number'         => true,
-        'disconnect_reason' => true,
-        'line_number'       => true,
-        'location'          => true,
-        */
     );
 	
 	public function __construct()
